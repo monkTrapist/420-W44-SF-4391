@@ -29,7 +29,7 @@ et qui descend jusqu'à 1.
 
 
 
-6- Crer un jeu qui permet à l'utilisateur de deviner un chiffre généré par le 
+5- Créer un jeu qui permet à l'utilisateur de deviner un chiffre généré par le 
 script entre 1 et 50. À chaque fois que l'utilisateur entre un chiffre, le 
 script lui indique si le chiffre à trouver est supérieur ou inférieur à celui 
 qu'il a entré, etc.
