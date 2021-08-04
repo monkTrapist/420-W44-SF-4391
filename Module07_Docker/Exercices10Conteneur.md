@@ -94,7 +94,7 @@ Sur Linux ctrl+C éteint le conteneur. Sur Windows il fonctionne toujours.
   ```
 - Vérifier dans le navigateur l'URL localhost, vous devriez avoir la page de nginx.
 - Vous ne voyez plus les tentatives de connexion sur le serveur Web.
-- Faites un "docker conteneur ls". Voyez-vous quelque chose ?
+- Faites un "docker container ls". Voyez-vous quelque chose ?
 - Faites un "docker info". Vous voyez les images et les conteneurs.
 
 
